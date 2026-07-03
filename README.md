@@ -78,6 +78,4 @@ Each ghost calculates a **target tile** each turn based on its mode:
 
 Ghosts then take one step per turn toward their target, moving along whichever axis (X or Y) has the greater distance to close.
 
-## License
 
-Add a license of your choice (e.g. MIT) — see [choosealicense.com](https://choosealicense.com/) for guidance.
